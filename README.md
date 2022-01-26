@@ -38,7 +38,7 @@ CARACTERISTICAS ESPECIALES DEL SISTEMA
 
 COMPILACION DESDE SISTEMA LINUX
 
-1. Dentro de las opcinones de cada proyecto podemos generar el CLEAN AND BUILD, lo que permite crear el archivo JAR en NETBEANS
+1. Dentro de las opciones de cada proyecto podemos generar el CLEAN AND BUILD, lo que permite crear el archivo JAR en NETBEANS
 2. Otra opcion seria abrir terminal en la carpeta del documento donde se ecnuentren los archivos JAVA y compilarlos con el comando javac
 3. Ya desde la terminal de Linux, podemos ejecutar dicho archivo por medio del comando java
 
