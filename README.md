@@ -45,7 +45,7 @@ COMPILACION DESDE SISTEMA LINUX
 
 DERECHOS DE AUTORIA
 
-1. La investigacion por intertnet siempre va a ser importante debido a la necesidad de ampliar conocimiento y desarrollar habilidades
+1. La investigacion por internet siempre va a ser importante debido a la necesidad de ampliar conocimiento y desarrollar habilidades
 2. La comprension del proyecto llevo a escuchar y verificar informacion que se encuentra en la Web desde diferentes fuentes
 3. Algunas de ellas tenian que ver con temas como SOCKET, TCPIP, DATAFRAMES, CLIENTE SERVIDOR
 4. estas son algunas de las direcciones utilizadas para la implementacion del presente sistema
