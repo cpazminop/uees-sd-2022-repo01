@@ -103,7 +103,7 @@ public class CLIENTE extends javax.swing.JFrame {
 
     }//GEN-LAST:event_txt_numeroKeyTyped
 
-//Evento que controla clik sobre el boton de generacion de numero de 1 a 10
+//Evento que controla click sobre el boton de generacion de numero de 1 a 10
     private void jButton1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jButton1MouseClicked
         int min = 1;// numero menor del rango a crear
 	int max = 9;//numero mayor del rango es 9 y que en la formula se aumenta 1 al final 
